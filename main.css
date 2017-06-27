@@ -42,14 +42,14 @@ ul.posts li {
     list-style: none;
 }
 
-    .iframe-container {    
+m.iframe-container {    
     padding-bottom: 60%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
  
-.iframe-container iframe,
-.iframe-container object,
-.iframe-container embed {
+m.iframe-container iframe,
+m.iframe-container object,
+m.iframe-container embed {
     position: absolute;
     top: 0;
     left: 0;
