@@ -33,8 +33,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -42,14 +42,14 @@ ul.posts li {
     list-style: none;
 }
 
-m.iframe-container {    
+.iframe-container {    
     padding-bottom: 60%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
-m.iframe-container iframe,
-m.iframe-container object,
-m.iframe-container embed {
+
+.iframe-container iframe,
+.iframe-container object,
+.iframe-container embed {
     position: absolute;
     top: 0;
     left: 0;
