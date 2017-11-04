@@ -1,9 +1,11 @@
 - name: Twitter data analysis
-  link: ""
+  link: "http://www.github.com/harishpuvvada"
   description:                                                                                              Classified twitter profiles as “Bots” or “Human” using Machine Learning algorithms based on the attributes like name, location, verified, etc. to achieve a cross-validated accuracy of 91%. Extracted tweets using Twitter Rest API and processed them using Python libraries such as Pandas and Numpy.Tested​ ​multiple​ ​algorithms​ for improving the prediction further optimized​ the performance using GridSearchCV​ to predetermine the optimal input parameters which increased the probability by almost 2%​."
-- name: NYU Forest
-  link: "http://www.nyuforest.com/"
+
+- name:   Bitcoin price prediction using sentiment analysis on social media
+  link: "http://www.github.com/harishpuvvada"
   description: "NYU Forest is a community site for Korean International students at NYU. Users can post, comment and vote interesting posts. Node.js, MongoDB and Angular 1 are  used."
-- name: Rountables
-  link: "http://rountables.com/"
+
+- name: Loan default prediction
+  link: "http://www.github.com/harishpuvvada"
   description: "Roundtables is a social network service for the people looking to join or create teams for any purpose. Users can create study groups, project teams and communicate inside the team board. Node.js, MongoDB and React.js are used."
