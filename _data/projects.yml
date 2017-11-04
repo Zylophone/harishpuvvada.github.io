@@ -3,9 +3,9 @@
   description:                                                                                              Classified twitter profiles as “Bots” or “Human” using Machine Learning algorithms based on the attributes like name, location, verified, etc. to achieve a cross-validated accuracy of 91%. Extracted tweets using Twitter Rest API and processed them using Python libraries such as Pandas and Numpy.Tested​ ​multiple​ ​algorithms​ for improving the prediction further optimized​ the performance using GridSearchCV​ to predetermine the optimal input parameters which increased the probability by almost 2%​."
 
 - name:   Bitcoin price prediction using sentiment analysis on social media
-  link: "http://www.github.com/harishpuvvada"
-  description: "NYU Forest is a community site for Korean International students at NYU. Users can post, comment and vote interesting posts. Node.js, MongoDB and Angular 1 are  used."
+  link: "http://www.github.com/harishpuvvada/BitCoin-Value-Predictor"
+  description: "The project attempts to predict the future value of Bitcoins by identifying the correlation between social media sentiment and market sentiment. We will achieve this by collecting user feeds from social media such as twitter, facebook and linkedin. Once we have our corpus we will map their associated sentiments using IBM Watson’s Natural Language Understanding API. While mapping sentiments to our corpus we attempt to capture granular level categories namely joy, anger, happiness, etc. We use these as feature vectors to our ML/DL algorithms. Then we compare the results of the different algorithms and choose the one with the best accuracy score."
 
 - name: Loan default prediction
-  link: "http://www.github.com/harishpuvvada"
-  description: "Roundtables is a social network service for the people looking to join or create teams for any purpose. Users can create study groups, project teams and communicate inside the team board. Node.js, MongoDB and React.js are used."
+  link: "https://github.com/harishpuvvada/LoanDefault-Prediction"
+  description: ""
