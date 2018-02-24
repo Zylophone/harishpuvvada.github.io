@@ -2487,8 +2487,8 @@ footer .copyright span:last-child::after {
 }
 
 .logos{
-    max-width: 20%;
-    max-height: 150px;
+    max-width: 30%;
+    max-height: 140px;
     width: auto;
     height: auto;
     padding-right: 5%;
