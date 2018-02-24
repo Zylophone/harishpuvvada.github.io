@@ -1016,9 +1016,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 /**
  * ===================================================================
  * 08. common styles (_layout.scss)
- *
- * -------------------------------------------------------------------
  */
+
 .grey-section {
 	background: #ebebeb;
 }
@@ -1119,7 +1118,7 @@ header .logo a {
 	color: #000000;
 	width: 30px;
 	height: 15px;
-	background: url("../images/logo1.png") no-repeat center;
+  /*background: url("../images/logo1.png") no-repeat center;*/
 	background-size: 100px 15px;
 }
 
