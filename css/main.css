@@ -2485,13 +2485,17 @@ footer .copyright span:last-child::after {
 	text-align: center;
 }
 
-.logos{
+image.logos{
+	  vertical-align: middle;
     max-width: 140px;
     max-height: 140px;
     width: auto;
     height: auto;
 		border-radius: 25%;
     padding-right: 5%;
+}
+.container{
+	width: 1170px;
 }
 
 /*# sourceMappingURL=main.css.map */
