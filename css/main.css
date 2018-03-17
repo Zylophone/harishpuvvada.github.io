@@ -2491,6 +2491,7 @@ footer .copyright span:last-child::after {
     width: auto;
     height: auto;
     padding-right: 5%;
+		border-radius:50%;
 }
 
 /*# sourceMappingURL=main.css.map */
