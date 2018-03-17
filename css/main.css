@@ -2490,7 +2490,7 @@ footer .copyright span:last-child::after {
     max-height: 140px;
     width: auto;
     height: auto;
-		border-radius: 50%;
+		border-radius: 25%;
     padding-right: 5%;
 }
 
