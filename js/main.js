@@ -12,6 +12,19 @@
 	/*---------------------------------------------------- */
 	/* Preloader
 	------------------------------------------------------ */
+
+
+
+	$('#education-timeline').verticalTimeline({
+	    startLeft: false,
+	    alternate: true,
+	    animate: "slide",
+	    arrows: false
+	});
+
+
+
+
    $(window).load(function() {
 
       // will first fade out the loading animation
@@ -289,10 +302,3 @@
 	});
 
 })(jQuery);
-
-$('#education-timeline').verticalTimeline({
-    startLeft: false,
-    alternate: true,
-    animate: "slide",
-    arrows: false
-});
