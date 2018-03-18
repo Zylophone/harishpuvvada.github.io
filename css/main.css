@@ -2497,11 +2497,10 @@ image.logos{
     padding-right: 5%;
 }
 
-
-
-
 #box1 {
 	/* background: #c00; */
+	border: 2px solid grey;
+	padding: 10px;
 	border-radius: 25px;
 }
 
