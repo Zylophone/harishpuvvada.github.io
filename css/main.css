@@ -2496,8 +2496,13 @@ image.logos{
 		border-radius: 25%;
     padding-right: 5%;
 }
-.container{
-	width: 1170px;
+
+
+
+
+#box1 {
+	/* background: #c00; */
+	border-radius: 25px;
 }
 
 /*# sourceMappingURL=main.css.map */
