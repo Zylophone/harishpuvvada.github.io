@@ -2534,8 +2534,9 @@ image.logos{
 						}
 
 						.education-block{
-						  background-color: #FFD700;
-						  max-width:700px;
+						  background-color:rgba(0, 0, 0, 0.2);
+							/* #FFD700; */
+						  max-width:1200px;
 						  margin:0 auto 30px auto;
 						  padding:15px;
 						  border:1px solid #dcd9d9;
