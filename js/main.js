@@ -291,11 +291,3 @@
 	});
 
 })(jQuery);
-
-
-$('#education-timeline').verticalTimeline({
-		startLeft: false,
-		alternate: true,
-		animate: "slide",
-		arrows: false
-});
