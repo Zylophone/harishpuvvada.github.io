@@ -2497,11 +2497,11 @@ image.logos{
     padding-right: 5%;
 }
 
-#box1 {
+#box1{
 	/* background: #c00; */
-	border: 2px solid grey;
-	padding: 10px;
-	border-radius: 25px;
+	border: 2px solid grey !important;
+	padding: 10px !important;
+	border-radius: 25px !important;
 }
 
 /*# sourceMappingURL=main.css.map */
