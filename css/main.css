@@ -2564,5 +2564,48 @@ image.logos{
             }
 
 
+						.education-block{
+						  background-color: #FFD700;
+						  max-width:700px;
+						  margin:0 auto 30px auto;
+						  padding:15px;
+						  border:1px solid #dcd9d9;
+						  text-align:left
+						}
 
+						.education-block h3{
+						  font-weight:500;
+						  float:left;
+						  margin:0;
+						  /*color:#FFFAFA;*/
+						}
+
+						.education-block span{
+						/*color: #FFFAFA;*/
+						float:right;
+						}
+
+						.education-block h4{
+						  /*color:#FFFAFA;*/
+						  clear:both;
+						  font-weight:500;
+						  margin:0 0 15px 0
+						}
+
+						.education-block h5{
+						  /*color:#FFFAFA;*/
+						  clear:both;
+						  font-weight:500;
+						  margin:0 0 15px 0
+						}
+
+						.education-block p,.education-block ul{
+						  margin:0;
+						  /*color:#FFFAFA;*/
+						  font-size:0.9em
+						}
+
+						.education-block ul{
+						  padding:0 0 0 15px
+						}
 /*# sourceMappingURL=main.css.map */
