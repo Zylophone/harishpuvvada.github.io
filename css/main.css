@@ -2483,11 +2483,8 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
-.linkin{
-	text-align: center;
-}
 
-image.logos{
+/* image.logos{
 	  vertical-align: middle;
     max-width: 140px;
     max-height: 140px;
@@ -2495,7 +2492,7 @@ image.logos{
     height: auto;
 		border-radius: 25%;
     padding-right: 5%;
-}
+} */
 
 #box1{
 	/* background: #c00; */
@@ -2509,7 +2506,15 @@ image.logos{
 	text-align: right !important;
 }
 
+.linkin{
+    text-align: center;
+    color: #FF0077;
+    font-weight: bold;
+}
 
+.linkin-bot{
+	text-align: center;
+}
 
 /* #work-head .work-name{
     text-align: left !important;
