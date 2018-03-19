@@ -2505,4 +2505,17 @@ image.logos{
 	margin-bottom: 15px !important;
 }
 
+#work-head .work-name{
+    text-align: Left;
+}
+
+#work-head .date{
+    text-align: right;
+}
+
+
+/* .alignright {
+	float: right;
+} */
+
 /*# sourceMappingURL=main.css.map */
