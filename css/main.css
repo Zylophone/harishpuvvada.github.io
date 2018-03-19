@@ -2483,6 +2483,15 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+.linkin{
+    text-align: center;
+    color: #FF0077;
+    font-weight: bold;
+}
+
+.linkin-bot{
+	text-align: center;
+}
 
 /* image.logos{
 	  vertical-align: middle;
@@ -2506,15 +2515,7 @@ footer .copyright span:last-child::after {
 	text-align: right !important;
 }
 
-.linkin{
-    text-align: center;
-    color: #FF0077;
-    font-weight: bold;
-}
 
-.linkin-bot{
-	text-align: center;
-}
 
 /* #work-head .work-name{
     text-align: left !important;
