@@ -2505,14 +2505,20 @@ image.logos{
 	margin-bottom: 15px !important;
 }
 
-#work-head .work-name{
+.work-date{
+	text-align: right !important;
+}
+
+
+
+/* #work-head .work-name{
     text-align: left !important;
-		
+
 }
 
 #work-head .date{
     text-align: right !important;
-}
+} */
 
 
 /* .alignright {
