@@ -2506,11 +2506,11 @@ image.logos{
 }
 
 #work-head .work-name{
-    text-align: Left;
+    text-align: left !important;
 }
 
 #work-head .date{
-    text-align: right;
+    text-align: right !important;
 }
 
 
